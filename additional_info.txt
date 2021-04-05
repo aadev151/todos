@@ -1,3 +1,0 @@
-So, in the folder with your MAIN.PY file you should place a new folder "my todos".
-Then, place "names.txt" file also in the same folder.
-Now you're ready to work, enjoy it!
